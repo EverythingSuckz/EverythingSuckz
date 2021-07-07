@@ -13,7 +13,7 @@
 
 
 <h2>⚡️ A Few Quick Facts</h2>
-<a href="https://github.com/EverythingSuckz"><img align="right" height="auto" width="48%" src="https://www.teahub.io/photos/full/288-2885603_synthwave-wallpaper-gif.gif" /></a>
+<a href="https://github.com/EverythingSuckz"><img align="right" height="auto" width="40%" src="https://www.teahub.io/photos/full/288-2885603_synthwave-wallpaper-gif.gif" /></a>
 
 <ul>
     <li>🔭 I’m currently working on <a href="https://t.me/AnimeSearchRobot">AnimeSearchBot</a> and you can see my <b>other works</b> <a href="https://t.me/WhySooSerious">here</a></li>
