@@ -12,8 +12,7 @@
 </div>
 
 <h2>⚡️ A Few Quick Facts</h2>
-<br>
-<br>
+
 <a href="https://github.com/EverythingSuckz"><img align="right" height="auto" width="40%" src="https://www.teahub.io/photos/full/288-2885603_synthwave-wallpaper-gif.gif" style="right:0px" /></a>
 
 <ul>
@@ -76,7 +75,7 @@
     <a href="https://discordapp.com/users/725668534008676403"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt=""></a>
     <a href="https://twitter.com/JyothisJayanth"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt=""></a>
     <a href="https://gitlab.com/EverythingSuckz"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="" srcset=""></a>
-    <a href="https://open.spotify.com/user/https://www.spotify.com/user/h3dnsm3a6xwphxuyrl3q12qjb"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="" srcset=""></a>
+    <a href="https://open.spotify.com/user/h3dnsm3a6xwphxuyrl3q12qjb"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="" srcset=""></a>
     <a href="https://steamcommunity.com/id/EverythingSuckz"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="" srcset=""></a>
     <a href="https://everythingsuckz.itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="" srcset=""></a>
     <a href="https://www.reddit.com/u/_EverythingSuckz"><img alt="Reddit" src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"/></a>
