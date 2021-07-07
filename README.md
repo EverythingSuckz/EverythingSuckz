@@ -12,7 +12,7 @@
 </div>
 
 <h2>⚡️ A Few Quick Facts</h2>
-
+<br>
 <a href="https://github.com/EverythingSuckz"><img align="right" height="auto" width="40%" src="https://www.teahub.io/photos/full/288-2885603_synthwave-wallpaper-gif.gif" style="right:0px" /></a>
 
 <ul>
