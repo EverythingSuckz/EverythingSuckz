@@ -7,8 +7,8 @@
 
 <div align="left">
     <a href="https://t.me/EverythingSuckz"><img src="https://img.shields.io/badge/@EverythingSuckz-30302f?style=flat-square&logo=telegram" alt="" srcset=""></a>
-    <a href="mailto:me@jyothis.com"><img src="https://img.shields.io/badge/Mail%20me-30302f?style=fflat-square&logo=gmail" alt="" srcset=""></a>
-    <a href="https://twitter.com/JyothisJayanth"><img src="https://img.shields.io/badge/JyothisJayath-30302f?style=flat-square&logo=twitter" alt="" srcset=""></a>
+    <a href="mailto:me@jyothis.gq"><img src="https://img.shields.io/badge/Mail%20me-30302f?style=fflat-square&logo=gmail" alt="" srcset=""></a>
+    <a href="https://twitter.com/JyothisJayanth"><img src="https://img.shields.io/badge/JyothisJayanth-30302f?style=flat-square&logo=twitter" alt="" srcset=""></a>
 </div>
 
 <h2>⚡️ A Few Quick Facts</h2>
