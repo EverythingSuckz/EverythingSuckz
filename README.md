@@ -16,7 +16,7 @@
 <a href="https://github.com/EverythingSuckz"><img align="right" height="auto" width="40%" src="https://www.teahub.io/photos/full/288-2885603_synthwave-wallpaper-gif.gif" style="right:0px" /></a>
 
 <ul>
-    <li>🔭 I’m currently working on <a href="https://t.me/AnimeSearchRobot">AnimeSearchBot</a> and you can see my <b>other works</b> <a href="https://t.me/WhySooSerious">here</a></li>
+    <li>🔭 I’m currently working on <a href="https://t.me/AutoAnimeBot">AutoAnimeBot</a> and you can see my <b>other works</b> <a href="https://t.me/WhySooSerious">here</a></li>
     <li>🧐 Currently Learning about <strong>Flutter</strong>, <strong>React</strong>, and a bit of <strong>Next.js</strong></li>
     <li>👨‍💻 Most of my projects are <a href="https://github.com/EverythingSuckz/Private-Repositories">private</a>.</li>
     <li>📺 I love <b>watching <a href="https://t.me/AnimeWatching">anime</a></b>.</li>
@@ -55,7 +55,7 @@
     <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="" srcset=""></a>
 </p>
 
-<h2>🔧 My development stack</h2>
+<h2>🔧 My development Tools</h2>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="" srcset=""></a>
 <a href="https://www.vim.org/"><img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt=""></a>
 
@@ -109,9 +109,9 @@
 
 <h2 align="center">🔪 And Finally!</h2>
 <div align="center">
-    <a href="https://telegra.ph/file/1c792b21289eed6d452a0.jpg"><img src="https://forthebadge.com/images/badges/kinda-sfw.svg" alt="" srcset=""></a>
+    <a href="https://t.me/JoinThisGroupForNothing"><img src="https://forthebadge.com/images/badges/kinda-sfw.svg" alt="" srcset=""></a>
     <a href="http://www.5z8.info/twitterhack_x8q2sr_bomb-plans"><img src="https://forthebadge.com/images/badges/contains-17-coffee-cups.svg" alt="" width="260"></a>
-    <!-- <a href=""><img src="https://img.shields.io/badge/NVIDIA%20GT1030-yes%20I'm%20poor!-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt=""></a> -->
+    <!--     <a href=""><img src="https://img.shields.io/badge/NVIDIA%20GT1030-yes%20I'm%20poor!-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt=""></a> -->
     <a href="#lang"><img src="https://forthebadge.com/images/badges/uses-html.svg" alt="uses HTML" width="130"></a>    
 </div>
 
