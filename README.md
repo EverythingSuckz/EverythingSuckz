@@ -17,9 +17,9 @@
 
 <ul>
     <li>🔭 I’m currently working on <a href="https://t.me/AutoAnimeBot">AutoAnimeBot</a> and you can see my <b>other works</b> <a href="https://t.me/WhySooSerious">here</a></li>
-    <li>🧐 Currently Learning about <strong>Flutter</strong>, <strong>React</strong>, and a bit of <strong>Next.js</strong></li>
-    <li>👨‍💻 Most of my projects are <a href="https://github.com/EverythingSuckz/Private-Repositories">private</a>.</li>
-    <li>📺 I love <b>watching <a href="https://t.me/AnimeWatching">anime</a></b>.</li>
+    <li>🧐 Currently mastering <strong>Python</strong> and learning <strong>Dart</strong></li>
+    <li>👨‍💻 Most of my projects are based on Python.</li>
+    <li>📺 I love <b>watching <a href="https://t.me/AutoAnimeBot">anime</a></b>.</li>
     <li>💬 I mostly use <strong><a href="http://telegram.dog/EverythingSuckz" target="_blank" rel="noopener noreferrer">Telegram</a></strong>.</li>
     <li>💡 <s><b>Follow</b>ing <b>me</b> is WORTHLESS.</s></li>
     <li>🎉 Fun Fact: <strong>お前はもう死んでいる</strong></li>
@@ -33,7 +33,7 @@
 
 
 
-<h2 id=lang>Languages / Frameworks/ Tools</h2>
+<h2 id=lang>Badges 4 Fun</h2>
 <p>
     <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=azure-blue" alt=""></a>
     <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="" srcset=""></a>
