@@ -91,7 +91,7 @@
 
 <h2>🎧  Now listening </h2>
 
-<a href="https://open.spotify.com/user/h3dnsm3a6xwphxuyrl3q12qjb"><img src="https://spotify-readme-silk-seven.vercel.app/api/spotify" alt="wrench's current Playing" width="90%" align="center" /></a>
+<a href="https://open.spotify.com/user/h3dnsm3a6xwphxuyrl3q12qjb"><img src="https://eris-pads-her-chest.vercel.app/api/spotify" alt="wrench's current Playing" width="90%" align="center" /></a>
 
 <h2 align="center">📈 My Github Stats! </h2>
 
