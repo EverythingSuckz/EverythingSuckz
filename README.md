@@ -1,8 +1,10 @@
+![Banner](https://capsule-render.vercel.app/api?type=venom&height=200&color=0:43cea2,100:185a9d&text=Hello,%20I'm%20Jyothis&textBg=false&desc=(he/him)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=f7f5f5)
+<!-- 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:43cea2,100:185a9d&text=Hello,%20I'm%20Jyothis&textBg=false&desc=(he/him)&descAlign=79&fontAlign=50&descAlignY=70&fontColor=f7f5f5" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:9796f0,100:b06ab3&text=Hello,%20I'm%20Jyothis&textBg=false&desc=(he/him)&descAlign=79&fontAlign=70&descAlignY=60&fontColor=1a1b27" />
   <img alt="banner"/>
-</picture>
+</picture> -->
 <p align="center">I'm 19 y.o student from <strong><a href="https://www.google.com/travel/things-to-do?dest_src=ut&dest_mid=%2Fm%2F0byh8j">Kerala</a></strong>. I'm working on some hobby projects and trying to learn new stuffs!</p>
 <h3>Quick Links</h3>
 <a href="https://github.com/EverythingSuckz"><img src="https://img.shields.io/github/followers/EverythingSuckz.svg?style=social&label=Follow&maxAge=2592000" alt="" align="left"></a>
