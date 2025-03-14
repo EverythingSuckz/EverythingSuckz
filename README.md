@@ -23,10 +23,10 @@
     <li>🔭 I’m currently learning <a href="https://www.rust-lang.org">rust</a> and you can find the stuffs I made <a href="https://telegram.dog/s/wrench_works"><b>here</b></a></li>
     <li>🧐 Currently mastering <strong>Python</strong> and learning <strong>Rust</strong></li>
     <li>👨‍💻 Most of my projects are based on Python.</li>
-    <li>📺 I love <b>watching moves and tv shows including anime</a></b>.</li>
+    <li>📺 I love <b>watching movies and tv shows including anime</a></b>.</li>
     <li>💬 I mostly use <strong><a href="http://telegram.dog/EverythingSuckz" target="_blank" rel="noopener noreferrer">Telegram</a></strong>.</li>
     <li>💡 <s><b>Follow</b>ing <b>me</b> is WORTHLESS.</s></li>
-    <li>😅 Fun Fact: I listen to gym songs and code to cope up with the small workout schedule</li>
+    <li>😅 Fun Fact: I listen to gym songs and code to cope with the small workout schedule</li>
 </ul>
 
 <h2>📌 Todo</h2>
